@@ -17,7 +17,7 @@ rabbitmq:
     host: localhost
     port: 5672
     username: guest
-    password: guest2
+    password: guest3
 
 #服务注册到eureka地址
 eureka:
